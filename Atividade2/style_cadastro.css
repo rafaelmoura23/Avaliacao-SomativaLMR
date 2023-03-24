@@ -1,0 +1,51 @@
+body{
+    font-family: cursive;
+    font-size: 1em;
+    background-image: url(img/mountains-1920x1080-macos-4k-5k-sierra-sky-android-wallpaper-11473.jpg);
+    color: white;
+}
+
+.tudo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px;
+    height: 300px;
+    background:rgb(78, 57, 191);
+    border-radius: 10px;
+}
+
+.pt1{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.pt2{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.pt3{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.botao{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
